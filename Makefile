@@ -1,4 +1,4 @@
-CFLAGS = -Wall -Wextra -pedantic -Werror -std=c99
+CFLAGS = -Wall -Wextra -pedantic -Werror -std=c99 -D_DEFAULT_SOURCE
 
 .PHONY: all clean
 
